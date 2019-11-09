@@ -1,4 +1,4 @@
-# Phoenix photo gallery
+# fam*eli*photos
 
 A simple Phoenix application for private sharing of family photos.
 
